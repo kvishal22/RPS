@@ -123,7 +123,7 @@
         .innerHTML=result;   
 
         document.querySelector('.js-moves')
-          .innerHTML= `you
+          .innerHTML= `shyam saran 
           <img src="${playerMove}-emoji.png" class="move-icon">
           <img src="${computerMove}-emoji.png" class="move-icon">
           computer`;
